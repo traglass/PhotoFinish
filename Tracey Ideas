@@ -1,0 +1,4 @@
+difference only applied to the detection area
+is alpha necessary?
+to get rid of absolute value, need to come up with a different threshold method. 
+Noticed that difference canvas (the black one with pretty colors) slowed down when the snapshot cavas was drawn.
